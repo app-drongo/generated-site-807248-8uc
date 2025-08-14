@@ -1,2 +1,30 @@
-# generated-site-807248-8uc
-AI-generated website: Create a luxurious e-commerce website for selling traditional Moroccan Caftan Brocard (embroidered c...
+# 689e0de3e8c9caf13e5979d1
+
+This Next.js website was generated using AI enhancement with multi-page support.
+
+## Pages
+
+- **Home** (/): 4 components
+
+## Statistics
+
+- **Total Pages**: 1
+- **Total Components**: 4
+- **Generated**: 2025-08-14T16:26:33.293Z
+
+## Getting Started
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000)
+
+---
+Generated with AI Website Builder
