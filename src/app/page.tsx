@@ -2,6 +2,7 @@ import CenteredHero from '../components/CenteredHero';
 import CardsFeatures from '../components/CardsFeatures';
 import LinksFooter from '../components/LinksFooter';
 import PricingTable from '../components/PricingTable';
+import About from '../components/About';
 
 export default function HomePage() {
   return (
@@ -11,6 +12,9 @@ export default function HomePage() {
       </section>
       <section id="features" className="scroll-mt-16">
         <CardsFeatures />
+      </section>
+      <section id="mission" className="scroll-mt-16">
+        <About />
       </section>
       <section id="cards" className="scroll-mt-16">
         <PricingTable />
